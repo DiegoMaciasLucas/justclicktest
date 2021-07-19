@@ -14,4 +14,4 @@
 ##### Note: execute docker build where is the DockerFile file, if any port is already used just change with other
 ### justclicktest file configuration
 Change the ip address and port in the ../justclicktest/src/main/resources/application.properties with the respective previous created docker container
-##### Note: Use postgresQuery.sql file to create the database and insert data
+##### Note: Use start.sql file to create the database and insert data
