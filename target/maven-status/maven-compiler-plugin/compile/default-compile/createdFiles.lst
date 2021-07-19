@@ -1,0 +1,14 @@
+com\justclick\test\model\ElasticRequest.class
+com\justclick\test\model\ResponseHeader.class
+com\justclick\test\service\UrlServices.class
+com\justclick\test\model\ElasticFinal.class
+com\justclick\test\model\Header.class
+com\justclick\test\repository\UrlRepository.class
+com\justclick\test\model\Response.class
+com\justclick\test\model\Url.class
+com\justclick\test\model\UserAgent.class
+com\justclick\test\config\ElasticSearch.class
+com\justclick\test\model\Request.class
+com\justclick\test\controller\TestController.class
+com\justclick\test\JustclicktestApplication.class
+com\justclick\test\repository\UrlElasticRepository.class
