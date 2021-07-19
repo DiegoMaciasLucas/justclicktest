@@ -15,3 +15,4 @@
 ### justclicktest file configuration
 Change the ip address and port in the ../justclicktest/src/main/resources/application.properties with the respective previous created docker container
 ##### Note: Use start.sql file to create the database and insert data
+email= diego.maciasl@ug.edu.ec
