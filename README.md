@@ -6,7 +6,7 @@
 *sudo docker run -d -it -p 8080:8080 --name adminer-postgres  adminer
 ##### ElasticSearch
 *docker pull docker.elastic.co/elasticsearch/elasticsearch:7.13.3
-*docker run -d -it -p 9200:9200 --name elasticSearch -e "discovery.type=single-node" *docker.elastic.co/elasticsearch/elasticsearch:7.13.3
+*docker run -d -it -p 9200:9200 --name elasticSearch -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:7.13.3
 ##### SpringBoot: Test Services 
 *docker build -t springio/gs-spring-boot-docker .
 *docker run -d -it -p 8089:8089 --name justclickservice springio/gs-spring-boot-docker
